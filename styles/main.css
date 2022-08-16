@@ -153,6 +153,9 @@ li{
     height: 1px;
 }
 
+.topics{
+    color: aqua;
+}
 
 @media(max-width:600px){
 
